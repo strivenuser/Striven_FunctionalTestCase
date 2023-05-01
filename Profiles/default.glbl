@@ -19,4 +19,24 @@
       <initValue>0</initValue>
       <name>globalId</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Striven Login page</description>
+      <initValue>'https://login.test.striven.com/Security/Login.aspx'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Role</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Login_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
