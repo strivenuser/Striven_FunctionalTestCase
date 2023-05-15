@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_v.bmail.com</name>
+   <tag></tag>
+   <elementGuidId>46d226b1-34c4-44b9-95e1-5c0af7f97bb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email']/ul/li/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email > ul.list-group.list-group-flush.mb-2 > li.list-group-item.px-0 > div.d-flex.align-items-center > div.col.ms-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>571a3f5c-799a-4a0f-aa3b-ba149f4df832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col ms-2</value>
+      <webElementGuid>f0799bd0-f556-417e-80cd-6b45620fb4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>v.b@mail.com</value>
+      <webElementGuid>3d3bdc94-b7cf-46f9-948d-02e1d3658ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email&quot;)/ul[@class=&quot;list-group list-group-flush mb-2&quot;]/li[@class=&quot;list-group-item px-0&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;col ms-2&quot;]</value>
+      <webElementGuid>29593580-9995-45ef-8d1d-9d2196fcc999</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='email']/ul/li/div/div[2]</value>
+      <webElementGuid>720c6f69-8632-44de-8cf6-779ba212a0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one email address is required.'])[1]/following::div[3]</value>
+      <webElementGuid>09e2e683-4e20-492f-9036-5864590749fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::div[7]</value>
+      <webElementGuid>cf0bf00b-ba40-4636-b72b-24c88573e00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address:'])[1]/preceding::div[2]</value>
+      <webElementGuid>78491f53-3ece-404f-8beb-0e7f5b9934f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li/div/div[2]</value>
+      <webElementGuid>253f72f2-679a-49ca-a623-067722102ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'v.b@mail.com' or . = 'v.b@mail.com')]</value>
+      <webElementGuid>bb1776fd-689e-451a-b1e4-227dc4795a4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

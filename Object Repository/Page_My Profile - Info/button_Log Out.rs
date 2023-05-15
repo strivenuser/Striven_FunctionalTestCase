@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log Out</name>
+   <tag></tag>
+   <elementGuidId>92a543e9-28a7-480e-b6b1-1d591632542f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/div[7]/ul/li[18]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d8949fb-b021-45ad-bf19-983b640b697d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f4d0ab6-3fb1-4377-9723-953f120bac15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>4baa2190-6f49-43e1-a031-b220e065f59b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Log Out</value>
+      <webElementGuid>e35a48ec-1d16-413a-9ce7-4c0852ec2868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;main-wrapper d-flex flex-column h-100&quot;]/header[@class=&quot;layout-header&quot;]/div[@class=&quot;px-0 py-1 px-xl-3 py-xl-1 d-flex align-items-center border-bottom&quot;]/div[@class=&quot;me-3 btn-group&quot;]/ul[@class=&quot;dropdown-menu shadow show&quot;]/li[18]/button[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>dcfc0b86-e6cc-4020-8409-b73c17640c7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/div[7]/ul/li[18]/button</value>
+      <webElementGuid>9cc1ee8a-8c0a-4706-a77a-b7b446df42cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Drive Company'])[1]/following::button[1]</value>
+      <webElementGuid>6ea5ec15-7d15-4c7e-b0fb-865b917532fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::button[1]</value>
+      <webElementGuid>6800a473-6600-4170-96f3-c932db3875ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::button[1]</value>
+      <webElementGuid>19227934-00da-4208-8426-b1a36857a35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[18]/button</value>
+      <webElementGuid>da29add7-0476-44f7-b263-9ccc577eec09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '  Log Out' or . = '  Log Out')]</value>
+      <webElementGuid>b9ca2cfc-53f6-4df8-b86e-53164ae12e5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

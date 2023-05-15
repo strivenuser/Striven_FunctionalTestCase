@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome new employeeHello and welcome D_f39214</name>
+   <tag></tag>
+   <elementGuidId>b644976d-c752-4ca9-8a32-0d6e22e06b3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal.fade.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>842e09bc-27e0-4f3d-b69b-b93667d34b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal fade show</value>
+      <webElementGuid>c0082278-6d13-4fc9-a6f7-1b9631c07d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>23c92ab8-bd89-465d-baa7-a80c5d109a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>490ead25-b827-4808-b9bf-873a3a17c529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>61c3dd01-25f6-4e1d-a481-64bd4bf228f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome new employeeHello and welcome Don't show again SharePreviousNext</value>
+      <webElementGuid>db6967c9-fe02-4327-b268-f1c5f5f43983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;modal fade show&quot;]</value>
+      <webElementGuid>c33ed3fe-c983-4395-b7fc-5205b32643b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]</value>
+      <webElementGuid>65e1b885-a97a-46db-9935-e145b4824f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='on'])[2]/following::div[1]</value>
+      <webElementGuid>1903bbbc-72cb-4f38-b7e2-c8c849bdef24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last modified by:'])[1]/following::div[1]</value>
+      <webElementGuid>eb8b7bc5-078e-4ea6-b211-5eff544b75f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>b3d19828-2b35-48a4-bfaf-8605035dd216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Welcome new employeeHello and welcome Don&quot; , &quot;'&quot; , &quot;t show again SharePreviousNext&quot;) or . = concat(&quot;Welcome new employeeHello and welcome Don&quot; , &quot;'&quot; , &quot;t show again SharePreviousNext&quot;))]</value>
+      <webElementGuid>c01a3154-cbad-4fd7-9c80-c5e0298a636d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

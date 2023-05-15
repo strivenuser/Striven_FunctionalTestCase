@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Next</name>
+   <tag></tag>
+   <elementGuidId>fcdb985e-4ca3-4589-80a3-edd5b30c9671</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.enjoyhint_next_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2143e49c-f994-41b5-acc5-072cc1cb3595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enjoyhint_next_btn</value>
+      <webElementGuid>b166c9a4-e01a-4594-83aa-5c405b21fb9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>78a7fa99-536b-4f63-ba38-ae2f3d75c2c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;t-chrome t-chrome112 k-webkit k-webkit112&quot;]/body[1]/div[@class=&quot;enjoyhint enjoyhint-step-1&quot;]/div[@class=&quot;enjoyhint_next_btn&quot;]</value>
+      <webElementGuid>efd78338-51c3-4671-96ec-34245036e257</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip'])[1]/following::div[1]</value>
+      <webElementGuid>bc94652d-b171-42f1-91a5-fb0432fc01d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='##LOC[Cancel]##'])[2]/following::div[13]</value>
+      <webElementGuid>400708cd-7b87-4227-b3ba-478b1ed3a0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to view actions related to you such as your calendar, profile, time off, expenses etc'])[1]/preceding::div[2]</value>
+      <webElementGuid>be8b8e8c-c569-4fb5-b7c3-6ba61f8ef6d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[8]</value>
+      <webElementGuid>cea409de-a9e4-424b-9ddf-7feff6ba2b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>9b5a1a82-15a0-4238-9a92-8824375faf35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_j.lmail.com</name>
+   <tag></tag>
+   <elementGuidId>cc048612-9930-4538-884b-6a3ade0bd9d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.ms-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email']/ul/li/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97ee72f5-b511-4bcb-aae6-3654b01db81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col ms-2</value>
+      <webElementGuid>8eceee8b-e434-45de-b7c3-028e060d745c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>j.l@mail.com</value>
+      <webElementGuid>10e2eb01-2777-4c34-a126-edd230bfa539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email&quot;)/ul[@class=&quot;list-group list-group-flush mb-2&quot;]/li[@class=&quot;list-group-item px-0&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;col ms-2&quot;]</value>
+      <webElementGuid>ccec85c7-122f-48c5-9407-5bc8d54e8310</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='email']/ul/li/div/div[2]</value>
+      <webElementGuid>1bb8da87-42da-4734-9b22-b641d999a959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one email address is required.'])[1]/following::div[3]</value>
+      <webElementGuid>f431ad58-f4f2-4db2-a5ee-cc593630ca1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::div[7]</value>
+      <webElementGuid>c68355d9-6476-45c9-8fde-54daba2aad56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address:'])[1]/preceding::div[2]</value>
+      <webElementGuid>86fbcffa-538a-4cdf-b32e-c052f1e75b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]</value>
+      <webElementGuid>3e1f262a-7a89-41d1-b7f8-f29d72f2d0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'j.l@mail.com' or . = 'j.l@mail.com')]</value>
+      <webElementGuid>a3f9dd42-cfc4-47bd-b6c9-acb4fab9b520</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

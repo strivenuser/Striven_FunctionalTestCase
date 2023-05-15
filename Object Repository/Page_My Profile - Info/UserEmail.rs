@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UserEmail</name>
+   <tag></tag>
+   <elementGuidId>9b53e86f-ebf9-4aa5-99d7-fad2000b9601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#email > ul.list-group.list-group-flush.mb-2 > li.list-group-item.px-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email']/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a180543a-dab2-4472-b369-29125cda47b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item px-0</value>
+      <webElementGuid>de4e97c2-b8ec-40ce-88d2-c70b726e806b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>v.p@mail.com</value>
+      <webElementGuid>7d49db22-332c-4864-928a-96a2f3d71919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email&quot;)/ul[@class=&quot;list-group list-group-flush mb-2&quot;]/li[@class=&quot;list-group-item px-0&quot;]</value>
+      <webElementGuid>ff16e61f-04ee-4410-b8cd-726eb3fd7f1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='email']/ul/li</value>
+      <webElementGuid>3183427b-4b8d-4983-bee1-02f0e9879d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one email address is required.'])[1]/following::li[1]</value>
+      <webElementGuid>94dddb24-be6b-4e5d-8489-2d899150ab85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::li[1]</value>
+      <webElementGuid>6992cc68-f93f-446f-abfd-5ff05116d08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address:'])[1]/preceding::li[1]</value>
+      <webElementGuid>66b97c1a-2fae-4082-9298-7a165b3cf593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/ul/li</value>
+      <webElementGuid>cff768c2-625b-4f25-abc2-0edaafdef5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'v.p@mail.com' or . = 'v.p@mail.com')]</value>
+      <webElementGuid>af4a5e3a-75c9-456d-b333-818619c20ca8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

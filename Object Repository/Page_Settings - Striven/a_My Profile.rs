@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Profile</name>
+   <tag></tag>
+   <elementGuidId>82bef90b-ea7d-4363-9b1e-8a38d02085aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/div[6]/ul/li[11]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>45f487e6-6d37-4c5c-a91b-8093bbbfc47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/next/user#/my-profile</value>
+      <webElementGuid>0507124b-4d5b-4933-8240-0eb90bd17bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>9240c5cf-45ea-4b37-b701-e9d9a1b2696e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  My Profile</value>
+      <webElementGuid>70631572-e2c7-4dd8-9caf-b415c3def24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;main-wrapper d-flex flex-column h-100&quot;]/header[@class=&quot;layout-header&quot;]/div[@class=&quot;px-0 py-1 px-xl-3 py-xl-1 d-flex align-items-center border-bottom&quot;]/div[@class=&quot;me-3 btn-group&quot;]/ul[@class=&quot;dropdown-menu shadow show&quot;]/li[11]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>559ff656-85a2-4cc4-af94-57e3bff0693f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/div[6]/ul/li[11]/a</value>
+      <webElementGuid>5e7a931a-6531-45aa-af60-3e4589e06362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Subscriptions'])[1]/following::a[1]</value>
+      <webElementGuid>ef9e7a2a-9da5-4e1a-88c8-2a3ea8693204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webhooks'])[1]/following::a[2]</value>
+      <webElementGuid>6e16f330-9bf5-4388-b9af-a449eb13ca6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::a[1]</value>
+      <webElementGuid>155ca708-ba91-4bd8-8c08-1272ad87ec99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/next/user#/my-profile')]</value>
+      <webElementGuid>eef70a93-28cb-4414-b218-1c721d60764e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a</value>
+      <webElementGuid>c2e2984e-ec4b-4c27-8a0c-ccbbd241d180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/next/user#/my-profile' and (text() = '  My Profile' or . = '  My Profile')]</value>
+      <webElementGuid>655a61a9-2764-4216-997c-ad0f70e22ed6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

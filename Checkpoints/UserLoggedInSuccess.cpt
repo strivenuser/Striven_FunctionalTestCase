@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>UserLoggedInSuccess</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Striven_Users</source-url>
+   </source-info>
+   <taken-date>2023-04-07T16:46:26.214</taken-date>
+   <column-names>
+      <column-name>URL</column-name>
+      <column-name>Role</column-name>
+      <column-name>Login_Email</column-name>
+      <column-name>Password</column-name>
+      <column-name>Assertions</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "https://login.test.striven.com/Security/Login.aspx",
+      "checked": false
+    },
+    {
+      "value": "Admin",
+      "checked": false
+    },
+    {
+      "value": "v.b@mail.com",
+      "checked": false
+    },
+    {
+      "value": "India@1234",
+      "checked": false
+    },
+    {
+      "value": "v.b@mail.com",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "https://login.test.striven.com/Security/Login.aspx",
+      "checked": false
+    },
+    {
+      "value": "NonAdmin",
+      "checked": false
+    },
+    {
+      "value": "v.p@mail.com",
+      "checked": false
+    },
+    {
+      "value": "India@123",
+      "checked": false
+    },
+    {
+      "value": "Sorry, You do not have permission to view this page!",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid_User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>877dfb37-714b-4df3-9c07-75b083be60bc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5f5cbc5-d337-4835-ac26-28e9fde76eaa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5f5cbc5-d337-4835-ac26-28e9fde76eaa</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

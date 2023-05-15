@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We are in the process of getting your s_3a98ef</name>
+   <tag></tag>
+   <elementGuidId>807564bb-c895-4e77-abca-86cdbb734bf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jGrowl-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jGrowl']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ab5881c-d8ad-47c5-a000-44769f3d0d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jGrowl-message</value>
+      <webElementGuid>a523ec65-a9cb-4b4c-89c6-4090aab50880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We are in the process of getting your system ready!  This will only take a moment.</value>
+      <webElementGuid>db587f26-41f8-4075-8bbb-3adae5cfaacd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jGrowl&quot;)/div[@class=&quot;jGrowl-notification alert ui-state-highlight ui-corner-all notifyMsg&quot;]/div[@class=&quot;jGrowl-message&quot;]</value>
+      <webElementGuid>914c652b-3f54-477d-95d0-b1302aa714cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jGrowl']/div[2]/div[2]</value>
+      <webElementGuid>492cd1e5-048d-41ff-bbad-ee88f99c8230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/following::div[1]</value>
+      <webElementGuid>441a502d-2509-4723-8ae7-1bd8f14bae7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::div[2]</value>
+      <webElementGuid>f4812b45-ef4a-4653-86a1-2e5eb23a0052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]</value>
+      <webElementGuid>d7062678-92a6-4ba0-add4-decccd94187b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'We are in the process of getting your system ready!  This will only take a moment.' or . = 'We are in the process of getting your system ready!  This will only take a moment.')]</value>
+      <webElementGuid>ea167ea6-b882-485b-ad54-5b7ea2a3708b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

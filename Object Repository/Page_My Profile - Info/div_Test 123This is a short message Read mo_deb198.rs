@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test 123This is a short message Read mo_deb198</name>
+   <tag></tag>
+   <elementGuidId>9bbef186-8a6b-4209-98c1-4e122f9f2a3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal.fade.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>402bf5c6-b95b-49c6-bdd7-12943dbee300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal fade show</value>
+      <webElementGuid>dbaec319-963f-407d-b9f0-498cc8a34f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>40ebdc57-f6d9-4e5c-82ff-ed94000f6fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d44b78db-219b-45cd-8011-967670847c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>17671697-f920-4c2f-9524-eac7f2c16593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test 123This is a short message Read more  Don't show again ShareTest 789Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Don't show again ShareTest 456Another short message. This time it is longer than the last one, but it is still quite short. Read more  Don't show again ShareWelcome new employeeHello and welcome Don't show again SharePreviousNext</value>
+      <webElementGuid>985e4cfc-1c60-461a-93dc-ad7ff87a105d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;modal fade show&quot;]</value>
+      <webElementGuid>7795a253-3067-4207-96e9-e280892fe6a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]</value>
+      <webElementGuid>83460569-acc3-4884-a80e-1a55ba089f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='on'])[2]/following::div[1]</value>
+      <webElementGuid>32780096-494c-4f7f-9a43-e7657629070b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last modified by:'])[1]/following::div[1]</value>
+      <webElementGuid>da68da58-0290-45b0-b4ec-de6b32f603c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>6bbb5c55-c99c-44d6-b942-8308b96c81a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Test 123This is a short message Read more  Don&quot; , &quot;'&quot; , &quot;t show again ShareTest 789Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Don&quot; , &quot;'&quot; , &quot;t show again ShareTest 456Another short message. This time it is longer than the last one, but it is still quite short. Read more  Don&quot; , &quot;'&quot; , &quot;t show again ShareWelcome new employeeHello and welcome Don&quot; , &quot;'&quot; , &quot;t show again SharePreviousNext&quot;) or . = concat(&quot;Test 123This is a short message Read more  Don&quot; , &quot;'&quot; , &quot;t show again ShareTest 789Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Don&quot; , &quot;'&quot; , &quot;t show again ShareTest 456Another short message. This time it is longer than the last one, but it is still quite short. Read more  Don&quot; , &quot;'&quot; , &quot;t show again ShareWelcome new employeeHello and welcome Don&quot; , &quot;'&quot; , &quot;t show again SharePreviousNext&quot;))]</value>
+      <webElementGuid>f4fb7d9d-7ae6-457b-8f6d-039a3a1958cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

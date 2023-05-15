@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Owens Corning</name>
+   <tag></tag>
+   <elementGuidId>77802a47-0157-4d80-b45e-6c9d52bc2705</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>43154f20-0069-4890-8463-e781adfbece3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Owens Corning</value>
+      <webElementGuid>ff1a7eba-296b-4466-afec-122de8f8b146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent_mainContent_ucTenantSelection_rptTenants_lnkTenant_0&quot;)/div[@class=&quot;media&quot;]/div[@class=&quot;tenant-name media-body&quot;]/span[1]</value>
+      <webElementGuid>ce50387c-dd01-45f4-944a-268a9487ddc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='mainContent_mainContent_ucTenantSelection_rptTenants_lnkTenant_0']/div/div[2]/span</value>
+      <webElementGuid>347ee4af-0d57-4be4-88ac-4e6a8c25060a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed in as: v.b@mail.com'])[1]/following::span[1]</value>
+      <webElementGuid>faeacf03-67f0-4c4f-9090-1131080ec1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NileshTest'])[1]/preceding::span[1]</value>
+      <webElementGuid>8ada9b3e-3200-4eab-9297-9e00f763f8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return to Login'])[1]/preceding::span[2]</value>
+      <webElementGuid>98474a31-fca9-4e35-a80d-6fa2ac993d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Owens Corning']/parent::*</value>
+      <webElementGuid>ba801273-8e5c-4964-8c2f-0100ba3c5e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>f01225f8-295e-4982-896f-570cf28e5dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Owens Corning' or . = 'Owens Corning')]</value>
+      <webElementGuid>5d2f0704-e06e-46b7-b188-d0e87f836c49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
