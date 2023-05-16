@@ -39,4 +39,9 @@
       <initValue>''</initValue>
       <name>Password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Striven Signup Page</description>
+      <initValue>'https://login.test.striven.com/Security/Signup.aspx'</initValue>
+      <name>URL_Signup</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

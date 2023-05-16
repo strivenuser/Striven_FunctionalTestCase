@@ -52,13 +52,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b38aede6-1156-4f58-8b77-4c2a31487309</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Test Cases_Final/Login and Signup/Striven_SignUp_WithoutData</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>717fe072-3b55-480b-bd80-c1a22aed94b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -66,40 +59,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>06c670c8-8c72-4dc9-8446-e4abda816d9b</guid>
+      <guid>9205174c-6414-4ef1-8e34-9e0de4b4c45c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create a new user</testCaseId>
+      <testCaseId>Test Cases/Test Cases_Final/Login and Signup/Striven_SignUp_WithoutData</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0de4fa76-1864-4d5e-aa8a-70ad8f4f4342</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>086a27a9-05ed-4e07-8465-e17bddfdeac1</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>311c2780-afd0-4352-a23f-fc00c2c42271</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>bcddbada-1d5e-422c-b810-55f7c48bb931</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3b3cb3f6-19ff-4f44-ae2c-a1c680bd3044</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

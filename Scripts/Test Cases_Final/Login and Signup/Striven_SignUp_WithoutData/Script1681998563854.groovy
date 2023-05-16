@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl(GlobalVariable.URL_Signup)
 
 WebUI.click(findTestObject('Object Repository/Page_Striven/input_EMAIL_ctl00mainContentbtnStart_input'))
 
