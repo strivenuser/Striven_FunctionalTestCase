@@ -22,7 +22,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Page_Striven/input_Sign in_ctl00ctl00mainContentmainCont_49a1e1'), Login_Email)
 
